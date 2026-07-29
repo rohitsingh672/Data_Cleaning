@@ -1,5 +1,5 @@
 # 🍫 Chocolate Sales – Complete Data Analytics Platform (Streamlit)
-# Thiranex Data Analytics Internship Fourth Project
+# Thiranex Data Analytics Internship Forth Project
 
 This single‑dashboard application combines **Predictive Analytics** and **Data Cleaning & Reporting Automation** for the Chocolate Sales dataset.
 
